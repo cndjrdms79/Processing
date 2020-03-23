@@ -20,4 +20,5 @@ if(i>800) i=0;
 }
 ```
 
+실행결과
 ![2주차 배너만들기 과제 실행결과](https://user-images.githubusercontent.com/54826844/77274733-ea31a500-6cf9-11ea-81b5-2d5ea913a1df.PNG)
