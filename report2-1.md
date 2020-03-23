@@ -15,7 +15,7 @@ void draw(){
 background(0);
 if(keyPressed)
 a= key-'0';
-text("andong",i=i+a, 200);
+text("Graphics",i=i+a, 200);
 if(i>800) i=0;
 }
 ```
