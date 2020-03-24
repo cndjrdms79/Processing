@@ -23,3 +23,6 @@ text("안동대컴공 사랑합니다",70, i=i+a);
 if(i>800) i=0;
 }
 ```
+
+실행결과
+![2주차 2-2 과제 배너 위에서아래로 출력](https://user-images.githubusercontent.com/54826844/77389948-e1170580-6dd7-11ea-8ab5-67df7ef0635f.PNG)
